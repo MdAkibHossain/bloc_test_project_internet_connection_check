@@ -1,4 +1,4 @@
-# bloc_test_project_1_internet_connection_check
+# bloc_test_project_internet_connection_check
 
 A new Flutter project.
 
